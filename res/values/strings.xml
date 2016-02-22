@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flashlight</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="setting_title_base">基本设置</string>
+    <string name="setting_starshine">桌面星光</string>
+    <string name="setting_switch">关闭按钮</string>
+    <string name="setting_time">自动关闭</string>
+    <string name="setting_title_app">作者其他应用</string>
+    <string name="lockhelper">锁屏帮手</string>
+    <string name="mainscreenshow">桌面秀</string>
+
+</resources>

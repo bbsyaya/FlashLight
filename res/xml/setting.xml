@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+
+    <PreferenceCategory android:title="@string/setting_title_base" >
+        
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="StarShine"
+            android:summaryOff="打开手电筒后在桌面显示星光"
+            android:summaryOn=""
+            android:title="@string/setting_starshine" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="Switch"
+            android:summaryOff="打开手电筒后，在屏幕右下方出现快捷关闭按钮"
+            android:summaryOn=""
+            android:title="@string/setting_switch" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="Time"
+            android:summaryOff="开启后5分钟后自动关闭手电筒"
+            android:summaryOn=""
+            android:title="@string/setting_time" />
+        </PreferenceCategory>
+        
+    	<PreferenceCategory android:title="@string/setting_title_app" >
+    	    
+    	    <PreferenceScreen
+                    android:key="MainScreenShow"
+                    android:summary="一款强大的动画应用"
+                    android:title="@string/mainscreenshow" />
+                <PreferenceScreen
+                    android:key="LockHelper"
+                    android:summary="在锁屏界面方便，快速的启动预先设定好的应用"
+                    android:title="@string/lockhelper" />            
+            </PreferenceCategory>
+    
+</PreferenceScreen>

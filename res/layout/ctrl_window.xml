@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/image_0"
+        android:layout_width="17dp"
+        android:layout_height="17dp"
+        android:src="@drawable/star_1" />
+
+    <ImageView
+        android:id="@+id/image_1"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:src="@drawable/star_1" />
+
+    <ImageView
+        android:id="@+id/image_2"
+        android:layout_width="9dp"
+        android:layout_height="9dp"
+        android:src="@drawable/star_2" />
+
+    <ImageView
+        android:id="@+id/image_3"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_3" />
+
+    <ImageView
+        android:id="@+id/image_4"
+        android:layout_width="6dp"
+        android:layout_height="6dp"
+        android:src="@drawable/star_3" />
+
+    <ImageView
+        android:id="@+id/image_5"
+        android:layout_width="3dp"
+        android:layout_height="3dp"
+        android:src="@drawable/star_3" />
+
+    <ImageView
+        android:id="@+id/image_6"
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:src="@drawable/star_1" />
+
+    <ImageView
+        android:id="@+id/image_7"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_4" />
+
+    <ImageView
+        android:id="@+id/image_8"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_4" />
+
+    <ImageView
+        android:id="@+id/image_9"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:src="@drawable/star_1" />
+
+    <ImageView
+        android:id="@+id/image_10"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_3" />
+
+    <ImageView
+        android:id="@+id/image_11"
+        android:layout_width="7dp"
+        android:layout_height="7dp"
+        android:src="@drawable/star_3" />
+
+    <ImageView
+        android:id="@+id/image_12"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:src="@drawable/star_3" />
+
+    <ImageView
+        android:id="@+id/image_13"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:src="@drawable/star_2" />
+
+    <ImageView
+        android:id="@+id/image_14"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_4" />
+
+    <ImageView
+        android:id="@+id/image_15"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:src="@drawable/star_5" />
+
+    <ImageView
+        android:id="@+id/image_16"
+        android:layout_width="19dp"
+        android:layout_height="19dp"
+        android:src="@drawable/star_1" />
+
+    <ImageView
+        android:id="@+id/image_17"
+        android:layout_width="11dp"
+        android:layout_height="11dp"
+        android:src="@drawable/star_6" />
+
+    <ImageView
+        android:id="@+id/image_18"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_4" />
+
+    <ImageView
+        android:id="@+id/image_19"
+        android:layout_width="7dp"
+        android:layout_height="7dp"
+        android:src="@drawable/star_2" />
+    
+    <ImageView
+        android:id="@+id/image_20"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_3" />
+    
+     <ImageView
+        android:id="@+id/image_21"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_3" />
+     
+     <ImageView
+        android:id="@+id/image_22"
+        android:layout_width="14dp"
+        android:layout_height="14dp"
+        android:src="@drawable/star_1" />
+     
+     <ImageView
+        android:id="@+id/image_23"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:src="@drawable/star_3" />
+     
+     <ImageView
+        android:id="@+id/image_24"
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:src="@drawable/star_5" />
+     
+     <ImageView
+        android:id="@+id/image_25"
+        android:layout_width="6dp"
+        android:layout_height="6dp"
+        android:src="@drawable/star_4" />
+
+</RelativeLayout>

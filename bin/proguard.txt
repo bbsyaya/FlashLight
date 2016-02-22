@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:22
+-keep class com.jiusg.flashlight.FLActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.jiusg.flashlight.FLService { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.jiusg.flashlight.Setting { <init>(...); }
+
